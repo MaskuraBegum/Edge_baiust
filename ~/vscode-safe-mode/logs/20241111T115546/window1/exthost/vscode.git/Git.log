@@ -1,0 +1,72 @@
+2024-11-11 11:55:56.821 [info] Log level: Info
+2024-11-11 11:55:56.821 [info] Validating found git in: "git"
+2024-11-11 11:55:57.178 [info] Using git "2.43.0" from "git"
+2024-11-11 11:56:07.553 [info] Log level: Info
+2024-11-11 11:56:07.553 [info] Validating found git in: "git"
+2024-11-11 11:56:07.553 [info] Using git "2.43.0" from "git"
+2024-11-11 11:56:56.467 [info] Log level: Info
+2024-11-11 11:56:56.467 [info] Validating found git in: "git"
+2024-11-11 11:56:56.467 [info] Using git "2.43.0" from "git"
+2024-11-11 11:56:56.467 [info] > git rev-parse --show-toplevel [28ms]
+2024-11-11 11:56:56.467 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-11 11:56:56.473 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-11 11:56:56.474 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-11 11:56:56.480 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-11 11:56:56.480 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-11 11:56:57.369 [info] > git rev-parse --show-toplevel [4ms]
+2024-11-11 11:56:57.369 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-11 11:57:01.216 [info] Log level: Info
+2024-11-11 11:57:01.216 [info] Validating found git in: "git"
+2024-11-11 11:57:01.216 [info] Using git "2.43.0" from "git"
+2024-11-11 11:57:01.216 [info] > git rev-parse --show-toplevel [14ms]
+2024-11-11 11:57:01.216 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-11 11:57:01.257 [info] > git rev-parse --show-toplevel [32ms]
+2024-11-11 11:57:01.257 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-11 11:57:01.275 [info] > git rev-parse --show-toplevel [7ms]
+2024-11-11 11:57:01.275 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-11 12:02:18.149 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-11 12:02:18.149 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-11 12:14:30.949 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-11 12:14:30.963 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-11-11 12:14:30.994 [info] Open repository: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust
+2024-11-11 12:14:31.015 [info] > git config --get commit.template [5ms]
+2024-11-11 12:14:31.029 [info] No remotes found in the git config file.
+2024-11-11 12:14:31.032 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [5ms]
+2024-11-11 12:14:31.032 [warning] No such branch: master.
+2024-11-11 12:14:31.051 [info] > git status -z -uall [10ms]
+2024-11-11 12:14:31.224 [info] > git config --get commit.template [3ms]
+2024-11-11 12:14:31.256 [info] No remotes found in the git config file.
+2024-11-11 12:14:31.276 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [20ms]
+2024-11-11 12:14:31.276 [warning] No such branch: master.
+2024-11-11 12:14:31.305 [info] > git status -z -uall [10ms]
+2024-11-11 12:14:31.555 [info] > git check-ignore -v -z --stdin [2ms]
+2024-11-11 12:14:31.730 [info] > git show --textconv :baiust/settings.py [13ms]
+2024-11-11 12:14:31.734 [info] > git ls-files --stage -- /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/baiust/settings.py [5ms]
+2024-11-11 12:14:32.820 [info] No remotes found in the git config file.
+2024-11-11 12:14:32.821 [info] > git config --get commit.template [9ms]
+2024-11-11 12:14:32.822 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-11-11 12:14:32.822 [warning] No such branch: master.
+2024-11-11 12:14:32.834 [info] > git status -z -uall [6ms]
+2024-11-11 12:14:37.877 [info] No remotes found in the git config file.
+2024-11-11 12:14:37.878 [info] > git config --get commit.template [7ms]
+2024-11-11 12:14:37.879 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-11-11 12:14:37.879 [warning] No such branch: master.
+2024-11-11 12:14:37.893 [info] > git status -z -uall [7ms]
+2024-11-11 12:14:43.165 [info] > git config --get commit.template [1ms]
+2024-11-11 12:14:43.174 [info] No remotes found in the git config file.
+2024-11-11 12:14:43.175 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-11-11 12:14:43.176 [warning] No such branch: master.
+2024-11-11 12:14:43.188 [info] > git status -z -uall [7ms]
+2024-11-11 12:14:48.225 [info] No remotes found in the git config file.
+2024-11-11 12:14:48.226 [info] > git config --get commit.template [8ms]
+2024-11-11 12:14:48.227 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-11-11 12:14:48.227 [warning] No such branch: master.
+2024-11-11 12:14:48.239 [info] > git status -z -uall [6ms]

@@ -1,0 +1,10 @@
+2024-11-11 11:55:48.725 [info] update#setState idle
+2024-11-11 11:55:56.516 [error] update#isLatestVersion(): failed to check for updates
+2024-11-11 11:55:56.516 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:108522)
+    at SimpleURLLoaderWrapper.emit (node:events:517:28)
+2024-11-11 11:56:04.973 [info] Extension host with pid 4770 exited with code: 0, signal: unknown.
+2024-11-11 11:56:18.400 [info] update#setState checking for updates
+2024-11-11 11:56:18.411 [info] update#setState available for download
+2024-11-11 11:56:50.388 [info] Extension host with pid 4838 exited with code: 0, signal: unknown.
+2024-11-11 11:56:58.321 [info] Extension host with pid 4945 exited with code: 0, signal: unknown.
