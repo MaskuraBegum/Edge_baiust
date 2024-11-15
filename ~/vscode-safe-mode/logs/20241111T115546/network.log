@@ -11,3 +11,8 @@
 2024-11-11 11:59:13.969 [error] electron #17: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NAME_NOT_RESOLVED
 2024-11-11 12:01:14.177 [error] electron #18: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
 2024-11-11 12:01:17.619 [error] electron #19: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED
+2024-11-11 12:17:40.609 [error] electron #42: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_TIMED_OUT
+2024-11-11 12:22:40.778 [error] electron #43: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2024-11-11 12:32:41.167 [error] electron #44: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2024-11-11 12:33:59.428 [error] electron #45: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_NETWORK_CHANGED
+2024-11-11 12:34:04.818 [error] electron #46: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

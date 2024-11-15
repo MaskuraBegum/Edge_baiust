@@ -1,0 +1,118 @@
+2024-11-14 12:05:21.994 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-11-14 12:05:21.994 [info] Experiment 'pythonSurveyNotificationcf' is active
+2024-11-14 12:05:21.994 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-11-14 12:05:21.994 [info] Experiment 'pythonTestAdapter' is active
+2024-11-14 12:05:21.994 [warning] Dir "/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/.pixi/envs" is not watchable (directory does not exist)
+2024-11-14 12:05:21.994 [info] Default formatter is set to null for workspace /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust
+2024-11-14 12:05:21.994 [info] Starting Environment refresh
+2024-11-14 12:05:21.994 [info] VS Code was launched from an activated environment: 'myenv', selecting it as the interpreter for workspace.
+2024-11-14 12:05:21.994 [info] > pixi --version
+2024-11-14 12:05:21.994 [info] > hatch env show --json
+2024-11-14 12:05:21.994 [info] cwd: .
+2024-11-14 12:05:21.994 [info] Python interpreter path: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-14 12:05:22.017 [info] > pyenv which python
+2024-11-14 12:05:22.017 [info] cwd: .
+2024-11-14 12:05:22.357 [warning] could not find a pixi interpreter for the interpreter at /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-14 12:05:22.685 [error] [
+  `Failed to start language server, Class name = h, completed in 336ms, has a falsy return value, Arg 1: <Uri:/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust>, Arg 2: {"id":"/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python","sysPrefix":"/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv","envType":"Venv","envName":"myenv","envPath":"/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv","path":"/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python","architecture":3,"sysVersion":"3.12.3 (main, Sep 11 2024, 14:17:37) [GCC 13.2.0]","version":{"raw":"3.12.3","major":3,"minor":12,"patch":3,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.12.3 ('myenv')","detailedDisplayName":"Python 3.12.3 ('myenv': venv)","type":"Virtual"}, Arg 3: {"documentSelector":[{"scheme":"file","language":"python"},{"scheme":"untitled","language":"python"},{"scheme":"vscode-notebook","language":"python"},{"scheme":"vscode-notebook-cell","language":"python"},{"scheme":"vscode-interactive-input","language":"python"}],"synchronize":{"configurationSection":["python","jupyter.runStartupCommands"]},"outputChannel":{"name":"Python Language Server","logLevel":3},"revealOutputChannelOn":4,"initializationOptions":{"experimentationSupport":true,"trustedWorkspaceSupport":true},"middleware":{"serviceContainer":{"container":{"options":{"autoBindInjectable":false,"defaultScope":"Transient","skipBaseClassChecks":true},"id":0,"_bindingDictionary":{"_map":{}},"_snapshots":[],"_middleware":null,"_activations":{"_map":{}},"_deactivations":{"_map":{}},"parent":null,"_metadataReader":{},"_moduleActivationStore":{"_map":{}}}},"serverVersion":"2024.8.2","lastCaptured":{},"nextWindow":0,"eventCount":0,"workspace":{},"connectedPromise":{"scope":null,"_resolved":false,"_rejected":false,"_promise":{}},"notebooks":{},"eventName":"LANGUAGE_SERVER.REQUEST"}}, Return Value: undefined`,
+  [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+  	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+  	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+  	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+  	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+  	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+  	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+  	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+  	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+  	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+  	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+]
+2024-11-14 12:05:22.687 [error] [
+  'Starting language server, Class name = d, completed in 340ms, has a falsy return value, , Return Value: undefined',
+  [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+  	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+  	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+  	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+  	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+  	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+  	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+  	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+  	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+  	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+  	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+]
+2024-11-14 12:05:22.688 [error] [
+  `Failed to start language server, Class name = d, completed in 343ms, has a falsy return value, Arg 1: <Uri:/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust>, Arg 2: {"id":"/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python","sysPrefix":"/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv","envType":"Venv","envName":"myenv","envPath":"/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv","path":"/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python","architecture":3,"sysVersion":"3.12.3 (main, Sep 11 2024, 14:17:37) [GCC 13.2.0]","version":{"raw":"3.12.3","major":3,"minor":12,"patch":3,"build":[],"prerelease":["final","0"]},"displayName":"Python 3.12.3 ('myenv')","detailedDisplayName":"Python 3.12.3 ('myenv': venv)","type":"Virtual"}, Return Value: undefined`,
+  [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+  	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+  	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+  	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+  	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+  	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+  	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+  	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+  	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+  	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+  	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+]
+2024-11-14 12:05:22.689 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 1998ms, has a falsy return value, Arg 1: <Uri:/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/cviews.py>, Arg 2: {"started":1731564320159}, Return Value: undefined',
+  [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+  	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+  	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+  	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+  	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+  	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+  	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+  	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+  	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+  	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+  	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+]
+2024-11-14 12:05:22.690 [error] Failure during activation. [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+2024-11-14 12:05:22.690 [error] sendStartupTelemetry() failed. [Error: The language client requires VS Code version ^1.91.0 but received version 1.89.1
+	at P.checkVersion (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2307252)
+	at new P (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:2306957)
+	at Object.createClient (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:52239)
+	at _0x500d80 (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:214371)
+	at async _0x5446db (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:218069)
+	at async _0x1d21da._startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:167360)
+	at async _0x1d21da._createNewRequest (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166885)
+	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
+	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
+	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)]
+2024-11-14 12:05:22.711 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/interpreterInfo.py
+2024-11-14 12:05:22.711 [info] Environments refresh paths discovered: 2020 milliseconds
+2024-11-14 12:05:22.845 [info] Environments refresh finished (event): 2154 milliseconds
+2024-11-14 12:05:22.849 [info] Environment refresh took 2158 milliseconds
+2024-11-14 12:05:23.145 [info] > . "/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/activate" && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/printEnvVariables.py
+2024-11-14 12:05:23.145 [info] shell: bash
+2024-11-14 12:05:23.224 [info] > /bin/python3 ~/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/printEnvVariables.py
+2024-11-14 12:05:23.224 [info] shell: bash
+2024-11-14 12:05:23.291 [info] Prepending environment variable PS1 in collection with (myenv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-11-14 12:05:23.291 [info] Prepending environment variable PATH in collection with /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/deactivate/bash:/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-11-14 12:05:23.292 [info] Send text to terminal: /bin/python3 /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/printEnvVariablesToFile.py /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-11-14 12:07:06.877 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py
+2024-11-14 12:11:50.945 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/cviews.py
+2024-11-14 12:12:50.408 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/url.py
+2024-11-14 12:13:43.151 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/url.py
+2024-11-14 12:15:02.839 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/url.py
+2024-11-14 12:16:07.187 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/baiust/urls.py
+2024-11-14 12:16:46.409 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/baiust/urls.py
+2024-11-14 12:54:03.459 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/url.py
+2024-11-14 12:57:42.149 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py
+2024-11-14 12:58:21.279 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py
+2024-11-14 13:03:40.093 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py
+2024-11-14 13:11:27.997 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/baiust/urls.py
+2024-11-14 13:11:50.840 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/baiust/urls.py
+2024-11-14 13:15:54.895 [info] Discover tests for workspace name: baiust - uri: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/urls.py

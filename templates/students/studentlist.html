@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>edge_program</title>
+</head>
+<body>
+    <h1>Enrollment list</h1>
+    {% for student in bstudents%}
+    <ol>
+        <li><strong>Name:</strong>{{student.name}}; <strong>Id:</strong>{{student.sid}}; <strong>Enrolled:</strong>{{student.enrolled}}; <strong>Batch:</strong>{{student.batch_code}};</li>
+    </ol>
+    {%endfor%}
+</body>
+</html>

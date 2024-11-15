@@ -7,3 +7,55 @@ Searching for Tailwind CSS projects in the workspace's folders.
 [Global] Preparing projects...
 [Global] Initializing projects...
 [Global] Initialized 0 projects
+[Info  - 12:46:56 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py'
+}
+[Info  - 12:57:40 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/baiust/urls.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/baiust/urls.py'
+}
+[Info  - 12:58:15 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views.py'
+}
+[Info  - 12:58:37 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py'
+}
+[Info  - 12:58:46 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/vi',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/vi'
+}
+[Info  - 12:58:48 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py'
+}
+[Info  - 12:59:35 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/cviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/cviews.py'
+}
+[Info  - 12:59:38 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/vi',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/vi'
+}
+[Info  - 12:59:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/cviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/cviews.py'
+}
+[Info  - 1:02:42 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py'
+}
+[Info  - 1:02:45 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/cviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/cviews.py'
+}
+[Info  - 1:03:02 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/models.py'
+}
+[Info  - 1:03:05 PM] [GLOBAL] No matching project for document {
+  fsPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/cviews.py',
+  normalPath: '/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/app_edge/views/cviews.py'
+}

@@ -4,9 +4,7 @@
         "workspaces": {
             "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Edge_project/baiust": "__default__profile__"
         },
-        "emptyWindows": {
-            "1731304548642": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -18,11 +16,7 @@
                 "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Edge_project/baiust"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1731304548642"
-            }
-        ]
+        "emptyWindows": []
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -135,6 +129,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."

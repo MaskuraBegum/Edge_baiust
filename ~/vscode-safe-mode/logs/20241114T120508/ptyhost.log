@@ -1,0 +1,11 @@
+2024-11-14 12:05:13.095 [info] Revived process, old id 63183d9655ba2003e860cb602198bc81-2 -> new id 1
+2024-11-14 12:05:13.095 [info] Revived process, old id 63183d9655ba2003e860cb602198bc81-3 -> new id 2
+2024-11-14 12:05:13.283 [info] Expanding terminal instance, old id 63183d9655ba2003e860cb602198bc81-3 -> new id 2
+2024-11-14 12:05:14.170 [warning] Persistent process "2": Process had no disconnect runners but was an orphan
+2024-11-14 12:05:14.171 [info] Persistent process reconnection "2"
+2024-11-14 12:05:14.257 [info] Persistent process "2": Replaying 7485 chars and 1 size events
+2024-11-14 12:05:18.333 [info] Expanding terminal instance, old id 63183d9655ba2003e860cb602198bc81-2 -> new id 1
+2024-11-14 12:05:19.959 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2024-11-14 12:05:19.959 [info] Persistent process reconnection "1"
+2024-11-14 12:05:19.995 [info] Persistent process "1": Replaying 811 chars and 1 size events
+2024-11-14 12:06:17.441 [info] Persistent process "2": The reconnection grace time of 1m has expired, shutting down pid "19235"
