@@ -2,9 +2,12 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
-            "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Edge_project/baiust": "__default__profile__"
+            "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Edge_project/baiust": "__default__profile__",
+            "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/jango_git/BAISUT_project1": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1732887722913": "__default__profile__"
+        }
     },
     "profileAssociationsMigration": true,
     "telemetry.sqmId": "",
@@ -13,10 +16,17 @@
         "workspaces": [],
         "folders": [
             {
+                "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/jango_git/BAISUT_project1"
+            },
+            {
                 "folderUri": "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Edge_project/baiust"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1732887722913"
+            }
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -61,6 +71,17 @@
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/jango_git/BAISUT_project1",
+                                        "path": "/mnt/hdd/HDD(lost+found)/maskura/project/jango_git/BAISUT_project1",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/hdd/HDD(lost+found)/maskura/project/jango_git/BAISUT_project1"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -1735,12 +1756,35 @@
             "backupPath": "/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/~/vscode-safe-mode/Backups/81d8d2bee7bc1e9a9cbcedc6ae85633d",
             "uiState": {
                 "mode": 0,
-                "x": 171,
+                "x": 58,
                 "y": 69,
-                "width": 1023,
-                "height": 767
+                "width": 1308,
+                "height": 699
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/Edge_project/baiust",
+                "backupPath": "/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/~/vscode-safe-mode/Backups/81d8d2bee7bc1e9a9cbcedc6ae85633d",
+                "uiState": {
+                    "mode": 0,
+                    "x": 58,
+                    "y": 69,
+                    "width": 1308,
+                    "height": 699
+                }
+            },
+            {
+                "folder": "file:///mnt/hdd/HDD%28lost%2Bfound%29/maskura/project/jango_git/BAISUT_project1",
+                "backupPath": "/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/baiust/~/vscode-safe-mode/Backups/95e4e7ebee4b1e9c20d082d37bfa62b8",
+                "uiState": {
+                    "mode": 0,
+                    "x": 171,
+                    "y": 69,
+                    "width": 1023,
+                    "height": 767
+                }
+            }
+        ]
     }
 }

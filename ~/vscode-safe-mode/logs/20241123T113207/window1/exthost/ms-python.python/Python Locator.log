@@ -1,0 +1,39 @@
+2024-11-23 11:32:19.977 [info] Starting Python Locator /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python-env-tools/bin/pet server
+2024-11-23 11:32:19.994 [info] Discovered env: /bin/python3
+2024-11-23 11:32:20.001 [info] Discovered env: /usr/bin/python3
+2024-11-23 11:32:20.003 [info] Locator Conda took 150.734002ms
+2024-11-23 11:32:20.003 [info] Locator Homebrew took 123.148µs
+2024-11-23 11:32:20.003 [info] Locator LinuxGlobal took 162.245027ms
+2024-11-23 11:32:20.003 [info] Locator PipEnv took 33.345µs
+2024-11-23 11:32:20.003 [info] Locator Poetry took 330.288µs
+2024-11-23 11:32:20.003 [info] Locator PyEnv took 565.29µs
+2024-11-23 11:32:20.003 [info] Locator Venv took 2.143937ms
+2024-11-23 11:32:20.004 [info] Locator VirtualEnv took 36.813µs
+2024-11-23 11:32:20.004 [info] Locator VirtualEnvWrapper took 77.85µs
+2024-11-23 11:32:20.004 [info] Locator GlobalVirtualEnvs took 156.007µs
+2024-11-23 11:32:20.004 [info] Locator Locators took 174.389023ms
+2024-11-23 11:32:20.004 [info] Locator Path took 303.791621ms
+2024-11-23 11:32:20.004 [info] Locator Workspaces took 34.70718ms
+2024-11-23 11:32:20.004 [info] Refresh completed in 310ms
+2024-11-23 11:32:20.007 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-23 11:33:13.245 [info] Starting Python Locator /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python-env-tools/bin/pet server
+2024-11-23 11:33:14.187 [info] Discovered env: /usr/bin/python3
+2024-11-23 11:33:14.215 [info] Discovered env: /bin/python3
+2024-11-23 11:33:14.216 [info] Locator Conda took 128.685361ms
+2024-11-23 11:33:14.216 [info] Locator Homebrew took 190.067µs
+2024-11-23 11:33:14.216 [info] Locator LinuxGlobal took 152.791227ms
+2024-11-23 11:33:14.217 [info] Locator PipEnv took 91.928µs
+2024-11-23 11:33:14.217 [info] Locator Poetry took 10.688957ms
+2024-11-23 11:33:14.217 [info] Locator PyEnv took 23.673451ms
+2024-11-23 11:33:14.217 [info] Locator Venv took 79.488µs
+2024-11-23 11:33:14.217 [info] Locator VirtualEnv took 83.761µs
+2024-11-23 11:33:14.217 [info] Locator VirtualEnvWrapper took 83.287µs
+2024-11-23 11:33:14.217 [info] Locator GlobalVirtualEnvs took 194.973µs
+2024-11-23 11:33:14.217 [info] Locator Locators took 157.970593ms
+2024-11-23 11:33:14.217 [info] Locator Path took 314.652589ms
+2024-11-23 11:33:14.217 [info] Locator Workspaces took 42.339074ms
+2024-11-23 11:33:14.218 [info] Refresh completed in 319ms
+2024-11-23 11:33:14.379 [info] Resolved Python Environment /usr/bin/python3
+2024-11-23 11:34:05.085 [info] Resolved Python Environment /usr/bin/python3
+2024-11-23 11:34:44.858 [info] Resolved Python Environment /usr/bin/python3
+2024-11-23 11:53:38.332 [info] Resolved Python Environment /usr/bin/python3

@@ -1,0 +1,22 @@
+2024-11-23 10:54:21.692 [info] Starting Python Locator /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python-env-tools/bin/pet server
+2024-11-23 10:54:22.031 [info] Discovered env: /usr/bin/python3
+2024-11-23 10:54:22.106 [info] Discovered env: /bin/python3
+2024-11-23 10:54:22.274 [info] Discovered env: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-23 10:54:22.813 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-23 10:54:22.818 [info] Locator Conda took 655.99899ms
+2024-11-23 10:54:22.818 [info] Locator Homebrew took 3.695182ms
+2024-11-23 10:54:22.818 [info] Locator LinuxGlobal took 181.954249ms
+2024-11-23 10:54:22.818 [info] Locator PipEnv took 879.405µs
+2024-11-23 10:54:22.819 [info] Locator Poetry took 981.322µs
+2024-11-23 10:54:22.819 [info] Locator PyEnv took 422.248µs
+2024-11-23 10:54:22.820 [info] Locator Venv took 320.064µs
+2024-11-23 10:54:22.820 [info] Locator VirtualEnv took 45.557µs
+2024-11-23 10:54:22.821 [info] Locator VirtualEnvWrapper took 33.474µs
+2024-11-23 10:54:22.821 [info] Locator GlobalVirtualEnvs took 256.245µs
+2024-11-23 10:54:22.821 [info] Locator Locators took 659.817227ms
+2024-11-23 10:54:22.821 [info] Locator Path took 369.074862ms
+2024-11-23 10:54:22.821 [info] Locator Workspaces took 11.527171ms
+2024-11-23 10:54:22.822 [info] Refresh completed in 660ms
+2024-11-23 10:54:22.825 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-23 10:56:00.758 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-23 10:57:08.196 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python

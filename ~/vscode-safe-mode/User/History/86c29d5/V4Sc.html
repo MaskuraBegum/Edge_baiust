@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>edge_program</title>
+</head>
+<body>
+    <h1>Enrollment list</h1>
+    <ol>
+    {% for Course in Courses%}
+        <li><strong>Name: </strong>{{Course.course_name}}; <strong>Id: </strong>{{student.student_id}}; <strong>Level </strong>{{student.level}}; <strong>Email: </strong>{{student.student_email}}</li>
+    
+    {%endfor%} 
+    </ol>
+</body>
+</html>

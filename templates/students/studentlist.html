@@ -7,10 +7,11 @@
 </head>
 <body>
     <h1>Enrollment list</h1>
-    {% for student in bstudents%}
     <ol>
-        <li><strong>Name:</strong>{{student.name}}; <strong>Id:</strong>{{student.sid}}; <strong>Enrolled:</strong>{{student.enrolled}}; <strong>Batch:</strong>{{student.batch_code}};</li>
+    {% for Course in Courses%}
+        <li><strong>Name: </strong>{{Course.course_name}}; <strong>Id: </strong>{{student.student_id}}; <strong>Level </strong>{{student.level}}; <strong>Email: </strong>{{student.student_email}}</li>
+    
+    {%endfor%} 
     </ol>
-    {%endfor%}
 </body>
 </html>

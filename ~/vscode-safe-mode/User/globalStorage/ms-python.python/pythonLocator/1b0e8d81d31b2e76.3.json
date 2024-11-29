@@ -1,0 +1,14 @@
+{
+  "environment": {
+    "executable": "/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python",
+    "prefix": "/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv",
+    "version": "3.12.3.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python",
+      "/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python3",
+      "/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python3.12"
+    ]
+  },
+  "symlinks": []
+}

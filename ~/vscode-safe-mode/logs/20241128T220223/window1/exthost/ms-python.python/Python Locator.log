@@ -1,0 +1,97 @@
+2024-11-28 22:03:04.156 [info] Starting Python Locator /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python-env-tools/bin/pet server
+2024-11-28 22:03:04.351 [info] Discovered env: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-28 22:03:05.269 [info] Discovered env: /usr/bin/python3
+2024-11-28 22:03:05.271 [info] Discovered env: /bin/python3
+2024-11-28 22:03:05.272 [info] Locator Conda took 127.444111ms
+2024-11-28 22:03:05.272 [info] Locator Homebrew took 104.67µs
+2024-11-28 22:03:05.273 [info] Locator LinuxGlobal took 132.056089ms
+2024-11-28 22:03:05.273 [info] Locator PipEnv took 22.767µs
+2024-11-28 22:03:05.273 [info] Locator Poetry took 174.436µs
+2024-11-28 22:03:05.273 [info] Locator PyEnv took 388.082µs
+2024-11-28 22:03:05.273 [info] Locator Venv took 30.368µs
+2024-11-28 22:03:05.273 [info] Locator VirtualEnv took 35.77µs
+2024-11-28 22:03:05.273 [info] Locator VirtualEnvWrapper took 24.224µs
+2024-11-28 22:03:05.274 [info] Locator GlobalVirtualEnvs took 391.492µs
+2024-11-28 22:03:05.274 [info] Locator Locators took 142.096283ms
+2024-11-28 22:03:05.274 [info] Locator Path took 292.72446ms
+2024-11-28 22:03:05.274 [info] Locator Workspaces took 2.319µs
+2024-11-28 22:03:05.274 [info] Refresh completed in 294ms
+2024-11-28 22:03:05.277 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-28 22:03:05.280 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-28 22:03:35.403 [info] Starting Python Locator /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python-env-tools/bin/pet server
+2024-11-28 22:03:35.403 [info] Discovered env: /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-28 22:03:36.047 [info] Discovered env: /usr/bin/python3
+2024-11-28 22:03:36.051 [info] Discovered env: /bin/python3
+2024-11-28 22:03:36.053 [info] Locator Conda took 123.647236ms
+2024-11-28 22:03:36.053 [info] Locator Homebrew took 3.492948ms
+2024-11-28 22:03:36.054 [info] Locator LinuxGlobal took 159.689375ms
+2024-11-28 22:03:36.054 [info] Locator PipEnv took 54.667µs
+2024-11-28 22:03:36.054 [info] Locator Poetry took 330.836µs
+2024-11-28 22:03:36.054 [info] Locator PyEnv took 210.288µs
+2024-11-28 22:03:36.054 [info] Locator Venv took 36.48µs
+2024-11-28 22:03:36.054 [info] Locator VirtualEnv took 37.963µs
+2024-11-28 22:03:36.054 [info] Locator VirtualEnvWrapper took 40.049µs
+2024-11-28 22:03:36.054 [info] Locator GlobalVirtualEnvs took 144.064µs
+2024-11-28 22:03:36.055 [info] Locator Locators took 164.597869ms
+2024-11-28 22:03:36.055 [info] Locator Path took 282.610631ms
+2024-11-28 22:03:36.055 [info] Locator Workspaces took 47.582815ms
+2024-11-28 22:03:36.055 [info] Refresh completed in 285ms
+2024-11-28 22:03:36.057 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-28 22:03:36.067 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-28 22:04:49.949 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-28 22:07:29.117 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 18:05:16.685 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 18:05:49.993 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 18:06:59.662 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 18:07:40.003 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 18:08:22.377 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 18:11:01.363 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 18:49:46.367 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:25:06.552 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:26:04.555 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:28:12.127 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:28:51.884 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:29:34.264 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:33:55.111 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:35:58.100 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:40:37.216 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:45:16.002 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:45:56.924 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:48:18.228 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:49:41.102 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:50:17.228 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:51:34.848 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:52:11.167 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:52:57.341 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:53:29.558 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:54:01.726 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:54:39.173 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:55:16.743 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 19:58:22.794 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:00:18.943 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:10:53.887 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:16:33.844 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:17:46.176 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:18:20.062 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:19:29.361 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:20:43.791 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:23:31.503 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:27:27.581 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:32:44.907 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:38:30.247 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:45:22.213 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:45:58.456 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:47:14.283 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:52:55.402 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:53:54.250 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:54:27.918 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:55:38.917 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:57:03.552 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 20:59:29.961 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 21:00:17.368 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 21:00:54.384 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 21:01:35.774 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 21:02:11.983 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 21:03:47.670 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 21:05:05.668 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
+2024-11-29 21:06:10.602 [info] Resolved Python Environment /mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin/python
