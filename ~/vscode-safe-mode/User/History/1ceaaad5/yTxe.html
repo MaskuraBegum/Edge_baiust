@@ -1,0 +1,32 @@
+{%extends 'students/base.html'%}
+{%block content%}
+<h1>Enroll in your desire course</h1>
+<form method="post">
+    {% csrf_token %}
+    <p>
+        <label for="id_name">Name:</label>
+        <input type="text" name="name" id="id_name" placeholder="Enter your name" required>
+    </p>
+    <p>
+        <label for="id_sid">Student ID:</label>
+        <input type="text" name="sid" id="id_sid" placeholder="Enter your student ID" required>
+    </p>
+    <p>
+        <label for="id_level">Level:</label>
+        <input type="number" name="level" id="id_level" placeholder="Enter your level" required>
+    </p>
+    <p>
+        <label for="id_email">Student Email:</label>
+        <input type="email" name="semail" id="id_email" placeholder="Enter your email" required>
+    </p>
+    <p>
+        <label for="id_enroll">Enroll For:</label>
+        <input type="text" name="enroll_for" id="id_enroll" placeholder="Enter enrollment description" required>
+    </p>
+    <p>
+        <label for="id_course_code">Course Code:</label>
+        <input type="text" name="course_code" id="id_course_code" placeholder="Enter course code" required>
+    </p>
+    <button type="submit">Enroll</button>
+</form>
+{% endblock %}

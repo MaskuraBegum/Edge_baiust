@@ -1,0 +1,13 @@
+
+{% extends 'students/base.html' %}
+{% block content %}
+<h1>Enrollment list</h1>
+    
+    <ol>
+    {% for record in records%}
+        <li><strong>Name: </strong>{{record.course_name}}; <strong>Id: </strong>{{student.student_id}}; <strong>Level </strong>{{student.level}}; <strong>Email: </strong>{{student.student_email}}</li>
+    
+    {%endfor%} 
+
+    </ol>
+{% endblock %}

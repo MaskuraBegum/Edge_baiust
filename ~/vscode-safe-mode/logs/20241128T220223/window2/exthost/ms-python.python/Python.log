@@ -95,3 +95,4 @@
 2024-11-29 19:42:39.932 [info] Prepending environment variable PS1 in collection with (myenv)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
 2024-11-29 19:42:39.932 [info] Prepending environment variable PATH in collection with /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/deactivate/bash:/mnt/hdd/HDD(lost+found)/maskura/project/Edge_project/myenv/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
 2024-11-29 19:42:39.933 [info] Send text to terminal: /bin/python3 /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/printEnvVariablesToFile.py /home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/python_files/deactivate/bash/envVars.txt
+2024-11-29 22:39:08.870 [info] Discover tests for workspace name: BAISUT_project1 - uri: /mnt/hdd/HDD(lost+found)/maskura/project/jango_git/BAISUT_project1/form_auth/models.py

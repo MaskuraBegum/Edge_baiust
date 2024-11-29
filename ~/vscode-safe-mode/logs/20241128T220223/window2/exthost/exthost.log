@@ -133,3 +133,8 @@
 	at async _0x1d21da._enqueueRequestAndWaitForRun (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:166089)
 	at async _0x1d21da.startClient (/home/maskura/.vscode/extensions/ms-python.vscode-pylance-2024.8.2/dist/extension.bundle.js:1:165605)
 	at async h.start (/home/maskura/.vscode/extensions/ms-python.python-2024.14.0-linux-x64/out/client/extension.js:2:39659)
+2024-11-29 22:33:59.669 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-11-29 22:35:24.079 [warning] [Decorations] CAPPING events from decorations provider vscode.git 310
+2024-11-29 22:36:51.034 [warning] [Decorations] CAPPING events from decorations provider vscode.git 310
+2024-11-29 22:47:47.939 [warning] [Decorations] CAPPING events from decorations provider vscode.git 311
+2024-11-30 02:43:41.680 [warning] [Decorations] CAPPING events from decorations provider vscode.git 311

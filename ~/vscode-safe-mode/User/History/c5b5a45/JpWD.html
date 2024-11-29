@@ -1,0 +1,14 @@
+
+{% extends 'students/base.html' %}
+{% block content %}
+<h1>Enrollment list</h1>
+
+<button><a href="{% url 'enrollment' %}">Enroll now!</a></button>    
+    <ol>
+    {% for record in records%}
+        <li><strong>Name: </strong>{{record.course_name}}; <strong>Id: </strong>{{record.}}; <strong>Level </strong>{{student.level}}; <strong>Email: </strong>{{student.student_email}}</li>
+    
+    {%endfor%} 
+
+    </ol>
+{% endblock %}
